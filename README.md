@@ -1,5 +1,5 @@
 ---
-title: CyberSafe Spectacular 2025 🛡️
+title: Cybersecurity Awareness Month 2025 🛡️
 colorFrom: green
 colorTo: gray
 emoji: 🐳
